@@ -127,6 +127,7 @@ body {
   background-color: var(--fourthcolor);
   color: #ffffff;
   cursor: pointer;
+  font-family: 'Roboto';
 }
 .main-section {
   height: 600px;
@@ -190,6 +191,7 @@ body {
   top: 174px;
   border-radius: 4px;
   background-color: #f5f4fa;
+  font-family: 'Roboto';
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
@@ -197,6 +199,14 @@ body {
   text-align: center;
   color: var(--brandcolor);
 }
+.portfoliobutton:hover,
+.portfoliobutton:focus {
+  color: var(--fifhtcolor);
+  background-color: var(--fourthcolor);
+  cursor: pointer;
+}
+color: var(--brandcolor);
+
 .portfoliobutton:hover,
 .portfoliobutton:focus {
   color: var(--fifhtcolor);

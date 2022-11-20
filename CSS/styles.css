@@ -1,0 +1,30 @@
+:root {
+  --brandcolor: #212121;
+  --secondcolor: #000000;
+  --thirdcolor: #757575;
+  --fourthcolor: #2196f3;
+  --fifhtcolor: #ffffff;
+  --sixthcolor: #2f303a;
+  --seventhcolor: #e5e5e5;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  color: var(--brandcolor);
+  background-color: var(--seventhcolor);
+}
+.brandname {
+  font-family: Raleway;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}
+.pieceofbrand {
+  font-family: Oleo Script;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 36px;
+  letter-spacing: 0.03em;
+  text-align: left;
+}

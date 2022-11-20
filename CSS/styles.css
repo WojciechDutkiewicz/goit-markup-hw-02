@@ -19,6 +19,7 @@ body {
   line-height: 31px;
   letter-spacing: 0.03em;
   text-align: left;
+  color: var(--secondcolor);
 }
 .pieceofbrand {
   font-family: Oleo Script;
@@ -27,4 +28,5 @@ body {
   line-height: 36px;
   letter-spacing: 0.03em;
   text-align: left;
+  color: var(--fourthcolor);
 }

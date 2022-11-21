@@ -29,18 +29,18 @@ body {
 .pieceofbrand {
   color: var(--fourthcolor);
 }
-.menu-nav {
+.nav-link {
   font-weight: 500;
   line-height: 16px;
   text-align: left;
   color: var(--brandcolor);
-}
-.menu-nav a {
   text-decoration: none;
-  color: inherit;
 }
-.menu-nav a:hover,
-.menu-nav a:focus,
+.list {
+  list-style: none;
+}
+.nav-link:hover,
+.nav-link:focus,
 .contact-links a:hover,
 .contact-links a:focus {
   color: var(--fourthcolor);

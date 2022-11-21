@@ -33,7 +33,7 @@ body {
   font-weight: 500;
   line-height: 16px;
   text-align: left;
-  color: inherit;
+  color: var(--brandcolor)
   text-decoration: none;
 }
 .list {

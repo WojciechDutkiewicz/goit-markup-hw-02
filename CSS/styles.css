@@ -12,15 +12,16 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
+  font-size: 14px;
   color: var(--brandcolor);
   background: var(--fifhtcolor);
+  letter-spacing: 0.03em;
 }
 .brandname {
   font-family: 'Raleway';
   font-size: 26px;
   font-weight: 700;
   line-height: 31px;
-  letter-spacing: 0.03em;
   text-align: left;
   color: var(--secondcolor);
   text-decoration: none;
@@ -30,15 +31,12 @@ body {
   font-size: 26px;
   font-weight: 400;
   line-height: 36px;
-  letter-spacing: 0.03em;
   text-align: left;
   color: var(--fourthcolor);
 }
 .menu-nav {
-  font-size: 14px;
   font-weight: 500;
   line-height: 16px;
-  letter-spacing: 0.02em;
   text-align: left;
   color: var(--brandcolor);
 }
@@ -54,7 +52,6 @@ body {
   cursor: pointer;
 }
 .contact-links {
-  font-size: 14px;
   font-weight: 500;
   line-height: 16px;
   letter-spacing: 0.02em;
@@ -66,9 +63,7 @@ body {
   color: inherit;
 }
 .contactfooter {
-  font-size: 14px;
   line-height: 24px;
-  letter-spacing: 0.03em;
   text-align: left;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
@@ -79,9 +74,7 @@ body {
   cursor: pointer;
 }
 .localization {
-  font-size: 14px;
   line-height: 24px;
-  letter-spacing: 0.03em;
   text-align: left;
   text-decoration: none;
   color: var(--fifhtcolor);
@@ -99,7 +92,6 @@ body {
   font-size: 26px;
   font-weight: 700;
   line-height: 31px;
-  letter-spacing: 0.03em;
   text-align: left;
   color: var(--fifhtcolor);
   text-decoration: none;
@@ -138,17 +130,13 @@ body {
   background-color: var(--sixthcolor);
 }
 .loremheader {
-  font-size: 14px;
   font-weight: 700;
   line-height: 16px;
-  letter-spacing: 0.03em;
   text-align: left;
   color: var(--brandcolor);
 }
 .loremdescrition {
-  font-size: 14px;
   line-height: 24px;
-  letter-spacing: 0.03em;
   text-align: left;
   color: var(--thirdcolor);
 }
@@ -156,7 +144,6 @@ body {
   font-size: 36px;
   font-weight: 700;
   line-height: 42px;
-  letter-spacing: 0.03em;
   text-align: center;
   color: var(--brandcolor);
 }
@@ -172,7 +159,6 @@ body {
   font-size: 16px;
   font-weight: 500;
   line-height: 19px;
-  letter-spacing: 0.03em;
   text-align: center;
   color: var(--brandcolor);
 }
@@ -180,7 +166,6 @@ body {
   font-size: 16px;
   font-weight: 400;
   line-height: 19px;
-  letter-spacing: 0.03em;
   text-align: center;
   color: var(--thirdcolor);
 }
@@ -195,7 +180,6 @@ body {
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
-  letter-spacing: 0.03em;
   text-align: center;
   color: var(--brandcolor);
 }
@@ -205,7 +189,6 @@ body {
   background-color: var(--fourthcolor);
   cursor: pointer;
 }
-color: var(--brandcolor);
 
 .portfoliobutton:hover,
 .portfoliobutton:focus {
@@ -232,7 +215,6 @@ color: var(--brandcolor);
 .portfoliodescription {
   font-size: 16px;
   line-height: 30px;
-  letter-spacing: 0.03em;
   text-align: left;
   color: var(--thirdcolor);
 }

@@ -103,10 +103,9 @@ body {
   border-radius: 4px;
   font-size: 16px;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 1.88;
   letter-spacing: 0.06em;
   text-align: center;
-  margin-left: 700px;
   background-color: var(--fourthcolor);
   color: #ffffff;
   cursor: pointer;

@@ -114,6 +114,19 @@ body {
 .main-section {
   background-color: var(--sixthcolor);
 }
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
 .loremheader {
   font-weight: 700;
   line-height: 16px;
@@ -121,7 +134,7 @@ body {
   color: var(--brandcolor);
 }
 .loremdescrition {
-  line-height: 24px;
+  line-height: 1.71;
   text-align: left;
   color: var(--thirdcolor);
 }

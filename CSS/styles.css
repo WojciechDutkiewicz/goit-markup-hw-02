@@ -33,7 +33,7 @@ body {
   font-weight: 500;
   line-height: 16px;
   text-align: left;
-  color: currentColor
+  color: currentColor;
   text-decoration: none;
 }
 .list {
@@ -94,16 +94,12 @@ body {
 .main-header {
   font-size: 44px;
   font-weight: 900;
-  line-height: 60px;
+  line-height: 1.36;
   letter-spacing: 0.06em;
   text-align: center;
   color: var(--fifhtcolor);
 }
 .buttonfirst {
-  height: 50px;
-  width: 200px;
-  left: 700px;
-  top: 430px;
   border-radius: 4px;
   font-size: 16px;
   font-weight: 700;
@@ -117,11 +113,6 @@ body {
   font-family: 'Roboto';
 }
 .main-section {
-  height: 600px;
-  width: 1600px;
-  left: nullpx;
-  top: nullpx;
-  border-radius: 0px;
   background-color: var(--sixthcolor);
 }
 .loremheader {

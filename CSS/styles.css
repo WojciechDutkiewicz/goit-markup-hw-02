@@ -71,11 +71,6 @@ body {
   color: var(--fifhtcolor);
 }
 .footer {
-  height: 252px;
-  width: 1600px;
-  left: 0px;
-  top: 2097px;
-  border-radius: 0px;
   background-color: var(--sixthcolor);
 }
 .brandnamefooter {

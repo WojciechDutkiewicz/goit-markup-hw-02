@@ -162,29 +162,20 @@ body {
   text-align: center;
   color: var(--thirdcolor);
 }
-<!--koniec stylizacji strony głównej WebStudio-- > .portfoliobutton {
-  height: 38px;
-  width: 93px;
-  left: 639px;
-  top: 174px;
+
+.buttonnext {
   border-radius: 4px;
-  background-color: #f5f4fa;
-  font-family: 'Roboto';
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
   text-align: center;
+  background-color: var(--ninthcolor);
   color: var(--brandcolor);
-}
-.portfoliobutton:hover,
-.portfoliobutton:focus {
-  color: var(--fifhtcolor);
-  background-color: var(--fourthcolor);
   cursor: pointer;
+  font-family: 'Roboto';
 }
-
-.portfoliobutton:hover,
-.portfoliobutton:focus {
+.buttonnext:hover,
+.buttonnext:focus {
   color: var(--fifhtcolor);
   background-color: var(--fourthcolor);
   cursor: pointer;
